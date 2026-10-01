@@ -95,7 +95,7 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col items-center justify-between gap-3 border-t border-white/10 py-6 text-xs sm:flex-row">
-          <p>© 2026 GharFix. All rights reserved.</p>
+          <p>© 2026 GharFix. All rights reserved. · Designed &amp; built by <a href="https://akclnt.com" className="hover:text-orange-400">AKCLNT</a></p>
           <p className="text-blue-100/40">
             Fictional demo website built for illustration.
           </p>
